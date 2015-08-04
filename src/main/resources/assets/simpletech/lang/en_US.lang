@@ -1,0 +1,128 @@
+# language.name=English
+# language.region=US
+# language.code=en_US
+
+# Block Localizations
+tile.simpletech:ore_aluminum.name=Aluminum Ore
+tile.simpletech:ore_chromium.name=Chromium Ore
+tile.simpletech:ore_cobalt.name=Cobalt Ore
+tile.simpletech:ore_copper.name=Copper Ore
+tile.simpletech:ore_impuretitanium.name=Impure Titanium Ore
+tile.simpletech:ore_lead.name=Lead Ore
+tile.simpletech:ore_silver.name=Silver Ore
+tile.simpletech:ore_tin.name=Tin Ore
+tile.simpletech:ore_titanium.name=Titanium Ore
+tile.simpletech:ore_uranium.name=Uranium Ore
+
+tile.simpletech:deadore_aluminum.name=Dead Ore
+tile.simpletech:deadore_chromium.name=Dead Ore
+tile.simpletech:deadore_cobalt.name=Dead Oree
+tile.simpletech:deadore_copper.name=Dead Ore
+tile.simpletech:deadore_impuretitanium.name=Dead Ore
+tile.simpletech:deadore_lead.name=Dead Ore
+tile.simpletech:deadore_silver.name=Dead Ore
+tile.simpletech:deadore_tin.name=Dead Ore
+tile.simpletech:deadore_titanium.name=Dead Ore
+tile.simpletech:deadore_uranium.name=Dead Ore
+
+tile.simpletech:ingotblock_aluminum.name=Block of Aluminum
+tile.simpletech:ingotblock_bronze.name=Block of Bronze
+tile.simpletech:ingotblock_chromium.name=Block of Chromium
+tile.simpletech:ingotblock_cobalt.name=Block of Cobalt
+tile.simpletech:ingotblock_copper.name=Block of Copper
+tile.simpletech:ingotblock_impuretitanium.name=Impure Titanium Block
+tile.simpletech:ingotblock_lead.name=Block of Lead
+tile.simpletech:ingotblock_silver.name=Block of Silver
+tile.simpletech:ingotblock_tin.name=Block of Tin
+tile.simpletech:ingotblock_titanium.name=Block of Titanium
+
+tile.simpletech:alloyfurnaceidle.name=Alloy Furnace
+tile.simpletech:alloyfurnaceactive.name=Alloy Furnace
+tile.simpletech:grinderidle.name=Grinder
+tile.simpletech:grinderactive.name=Grinder
+tile.simpletech:planter.name=Planter
+tile.simpletech:itempipe.name=Item Pipe
+
+# Item Localizations
+item.simpletech:dust_aluminum.name=Aluminum Dust
+item.simpletech:dust_bronze.name=Bronze Dust
+item.simpletech:dust_chromium.name=Chromium Dust
+item.simpletech:dust_cobalt.name=Cobalt Dust
+item.simpletech:dust_copper.name=Copper Dust
+item.simpletech:dust_gold.name=Gold Dust
+item.simpletech:dust_impuretitanium.name=Impure Titanium Dust
+item.simpletech:dust_iron.name=Iron Dust
+item.simpletech:dust_lead.name=Lead Dust
+item.simpletech:dust_silver.name=Silver Dust
+item.simpletech:dust_tin.name=Tin Dust
+item.simpletech:dust_titanium.name=Titanium Dust
+
+item.simpletech:tinydust_aluminum.name=Aluminum Tiny Dust
+item.simpletech:tinydust_chromium.name=Chromium Tiny Dust
+item.simpletech:tinydust_cobalt.name=Cobalt Tiny Dust
+item.simpletech:tinydust_copper.name=Copper Tiny Dust
+item.simpletech:tinydust_gold.name=Gold Tiny Dust
+item.simpletech:tinydust_impuretitanium.name=Impure Titanium Tiny Dust
+item.simpletech:tinydust_iron.name=Iron Tiny Dust
+item.simpletech:tinydust_lead.name=Lead Tiny Dust
+item.simpletech:tinydust_silver.name=Silver Tiny Dust
+item.simpletech:tinydust_tin.name=Tin Tiny Dust
+item.simpletech:tinydust_titanium.name=Titanium Tiny Dust
+
+item.simpletech:nugget_aluminum.name=Aluminum Nugget
+item.simpletech:nugget_bronze.name=Bronze Nugget
+item.simpletech:nugget_chromium.name=Chromium Nugget
+item.simpletech:nugget_cobalt.name=Cobalt Nugget
+item.simpletech:nugget_copper.name=Copper Nugget
+item.simpletech:nugget_impuretitanium.name=Impure Titanium Nugget
+item.simpletech:nugget_iron.name=Iron Nugget
+item.simpletech:nugget_lead.name=Lead Nugget
+item.simpletech:nugget_silver.name=Silver Nugget
+item.simpletech:nugget_tin.name=Tin Nugget
+item.simpletech:nugget_titanium.name=Titanium Nugget
+
+item.simpletech:ingot_aluminum.name=Aluminum Ingot
+item.simpletech:ingot_bronze.name=Bronze Ingot
+item.simpletech:ingot_chromium.name=Chromium Ingot
+item.simpletech:ingot_cobalt.name=Cobalt Ingot
+item.simpletech:ingot_copper.name=Copper Ingot
+item.simpletech:ingot_impuretitanium.name=Impure Titanium Ingot
+item.simpletech:ingot_lead.name=Lead Ingot
+item.simpletech:ingot_silver.name=Silver Ingot
+item.simpletech:ingot_tin.name=Tin Ingot
+item.simpletech:ingot_titanium.name=Titanium Ingot
+item.simpletech:ingot_uranium.name=Uranium
+
+item.simpletech:upgrade_speed.name=Speed Upgrade
+
+item.simpletech:backpack.name=Backpack
+item.simpletech:bag.name=Bag
+
+item.bronzesword.name=Bronze Sword
+item.bronzepickaxe.name=Bronze Pickaxe
+item.bronzeaxe.name=Bronze Axe
+item.bronzeshovel.name=Bronze Shovel
+item.bronzehoe.name=Bronze Hoe
+item.cobaltsword.name=Cobalt Sword
+item.cobaltpickaxe.name=Cobalt Pickaxe
+item.cobaltaxe.name=Cobalt Axe
+item.cobaltshovel.name=Cobalt Shovel
+item.cobalthoe.name=Cobalt Hoe
+
+item.bronzehelmet.name=Bronze Helmet
+item.bronzechestplate.name=Bronze Chestplate
+item.bronzeleggings.name=Bronze Leggings
+item.bronzeboots.name=Bronze Boots
+item.titaniumhelmet.name=Titanium Helmet
+item.titaniumchestplate.name=Titanium Chestplate
+item.titaniumleggings.name=Titanium Leggings
+item.titaniumboots.name=Titanium Boots
+
+# GUI Localizations
+container.simpletech:alloyfurnace=Alloy Furnace
+container.simpletech:grinder=Grinder
+container.simpletech:planter=Planter
+
+# Key Bind Localizations
+keys.simpletech:category=JustAnotherTechAddon
+keys.simpletech:backpack=Open Backpack

@@ -1,0 +1,17 @@
+[
+{
+  "modid": "simpletech",
+  "name": "Simple Tech",
+  "description": "",
+  "version": "1.0",
+  "mcversion": "1.7.2",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["ThePizzaBoy"],
+  "credits": "Pahimar, Vswe, and ScratchForFun for providing amazing tutorials",
+  #"logoFile": "assets/simpletech/textures/logo/jata_logo.png",
+  "screenshots": [],
+  "parent": "",
+  "dependencies": []
+}
+]
